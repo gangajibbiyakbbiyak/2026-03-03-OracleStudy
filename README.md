@@ -37,5 +37,5 @@
 어떤 릴레이션의 기본 키를 참조하는 애트리뷰트
 관계 데이터베이스에서 릴레이션들 간의 관계를 나타내기 위해서 사용 (PK-FK)
 
-SELECT * FROM 테이블이름 WHERE 검색조건 GROUP BY 속성이름 HAVING 검색조건 ORDER BY 속성이름 [ASC|DESC]
+SELECT * FROM 테이블이름 WHERE 검색조건 GROUP BY 속성이름 HAVING 검색조건 ORDER BY 속성이름 [ASC|DESC] 
 
